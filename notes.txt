@@ -1,0 +1,11 @@
+
+- We Start By install the following (making styling easier):
+ open nativewind set up website and install nativewind and initilize it:
+ https://www.nativewind.dev/docs/getting-started/installation
+
+- to make sure all changes reflect:
+ npx expo start --clear
+
+- rafce for react rnfe for react native
+
+
