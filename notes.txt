@@ -8,4 +8,5 @@
 
 - rafce for react rnfe for react native
 
+- we start by creating our navigation tabs in the _layout.tsx then we start working on each page
 
