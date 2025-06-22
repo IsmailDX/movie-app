@@ -10,3 +10,5 @@
 
 - we start by creating our navigation tabs in the _layout.tsx then we start working on each page
 
+- For Appwrite installation: npx expo install react-native-appwrite react-native-url-polyfill
+
